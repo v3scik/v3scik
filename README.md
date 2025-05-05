@@ -1,16 +1,25 @@
-## Hi there 👋
+<!-- are you dumb? -->
 
-<!--
-**71vest/71vest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class vest:
+    def __init__(self) -> None:
+        pass
 
-Here are some ideas to get you started:
+    @staticmethod
+    def about_me(self) -> str:
+        name         =  None
+        age          =  None
+        return "https://doxbin.com/71vestleaked"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    @staticmethod
+    def project(self) -> Tuple:
+        main         =  "https://neptun.wtf/"
+        second       =  "https://dc.magicmc.eu/"
+        in_progress  =  "OnionTalk"
+
+        return main, second, in_progress
+
+    @staticmethod
+    def scam_count(self) -> int:
+        return 0
+```
