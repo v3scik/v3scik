@@ -9,6 +9,8 @@ class vest:
     def about_me(self) -> str:
         name         =  None
         age          =  None
+        country      =  "Poland"
+        langs        =  ["Python", "JavaScript"]
         return "https://doxbin.com/71vestleaked"
 
     @staticmethod
