@@ -15,9 +15,9 @@ class vest:
 
     @staticmethod
     def project(self) -> Tuple:
-        main         =  "https://neptun.wtf/"
-        second       =  "hCaptcha Solver"
-        in_progress  =  "OnionTalk"
+        main         =  "https://discord.gg/dropper" # FiveM (Cheating Community / Lua Executor Scripts)
+        second       =  "https://neptun.wtf/" # Discord Raider & hCaptcha Solving
+        in_progress  =  "?"
 
         return main, second, in_progress
 
