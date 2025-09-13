@@ -15,7 +15,7 @@ class vest:
 
     @staticmethod
     def project(self) -> Tuple:
-        main         =  "https://discord.gg/dvBwyQC6nM" # FiveM (Cheating Community / Lua Executor / Lua Scripts)
+        main         =  "https://discord.gg/cweluszek" # FiveM (Cheating Community / Lua Executor / Lua Scripts)
         second       =  "https://neptun.wtf/"           # Discord Raider & hCaptcha Solving
         in_progress  =  "?"
 
